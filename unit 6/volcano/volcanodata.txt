@@ -1,0 +1,24 @@
+23
+Katla 4961 Europe
+Mt.Baekdu 9003 Asia
+Mayon 8081 Asia
+Mt.St.Helens 8366 N.America
+Yellowstone 2805 N.America
+Marsili 9800 Europe
+GlacierPeak 10541 N.America
+Mt.Vesuvius 4203 Europe
+Ischia 2589 Europe
+Mt.Merapi 9560 Asia
+Nyiragongo 11385 Africa
+Taal 1020 Asia
+Kilimanjaro 19341 Africa
+Putana 19324 S.America
+Taapaca 19226  S.America
+Mt.Sidley 13717 Antarctica
+Mt.Jarvis 13422 N.America
+Kilauea 4009 N.America
+Aso 5223 Asia
+Erebus 12451 Antarctica
+Ushkovsky 12936 Asia
+Quilotoa 3914 S.America
+Sahand 12162 Asia
